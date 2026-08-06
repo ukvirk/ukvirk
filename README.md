@@ -5,16 +5,6 @@
 
 ---
 
-## 🐍 Contribution Matrix
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ukvirk/ukvirk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ukvirk/ukvirk/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Contribution Grid" src="https://raw.githubusercontent.com/ukvirk/ukvirk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
----
-
 ## 🌍 Executive Brief
 
 I design high scale orchestration systems, human in the loop AI architectures, and resilient distributed platforms. Through technology, I bridge infrastructure gaps for vulnerable populations while advancing the frontiers of autonomous agentic systems.
@@ -38,7 +28,7 @@ I design high scale orchestration systems, human in the loop AI architectures, a
 ### Languages & Core Engineering
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### AI, Machine Learning & Agentic Systems
@@ -71,6 +61,25 @@ I design high scale orchestration systems, human in the loop AI architectures, a
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+## 🐍 Contribution Graph & Activity
+
+![Snake animation](https://raw.githubusercontent.com/ukvirk/ukvirk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📊 Analytics & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ukvirk&theme=dark&hide_border=false&count_private=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
@@ -157,20 +166,6 @@ I design high scale orchestration systems, human in the loop AI architectures, a
 | **AI and Career Empowerment** | University of Maryland (Smith School of Business) | March 7, 2026 | Non-Credit Business Track |
 
 </details>
-
----
-
-## 📊 Analytics & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ukvirk&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ukvirk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="48%" />
-</p>
 
 ---
 
