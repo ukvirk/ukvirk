@@ -220,16 +220,6 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 
 ---
 
-## Coding Profiles
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LEETCODE-PROFILE-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-green?style=for-the-badge&logo=geeksforgeeks" />
-  <img src="https://img.shields.io/badge/HACKERRANK-PROFILE-darkgreen?style=for-the-badge&logo=hackerrank" />
-  <img src="https://img.shields.io/badge/CODECHEF-PROFILE-brown?style=for-the-badge&logo=codechef" />
-</p>
-
----
 
 ## GitHub Analytics
 
