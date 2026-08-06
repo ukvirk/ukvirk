@@ -27,7 +27,7 @@
 
 I am a **Full Stack Developer and AI Software Engineer** focused on building clean web applications, custom software solutions, and production AI workflows. I specialize in turning complex, real-world business problems into functional software that works reliably.
 
-As the founder of **Hunarmand**, I built a digital labor matching platform connecting local skilled workers to daily employment opportunities. My everyday engineering work centers on web design, modern full-stack web development, custom automation workflows, Retrieval-Augmented Generation (RAG), and autonomous AI agent architectures.
+As the founder of **Hunarmand**, I built a digital labor matching platform connecting local skilled workers to daily employment opportunities. My everyday engineering work centers on web design, modern full stack web development, custom automation workflows, Retrieval-Augmented Generation (RAG), and autonomous AI agent architectures.
 
 ### What I Build
 * **Full Stack Web Applications:** Responsive UI web design integrated with fast, scalable backends.
@@ -59,11 +59,11 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### AI, RAG & Automation
-![Python AI](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG Frameworks](https://img.shields.io/badge/RAG_Frameworks-000000?style=for-the-badge)
-![Claude API](https://img.shields.io/badge/Claude_API_%26_MCP-191919?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/RAG_Frameworks-000000?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Claude_API_%26_MCP-191919?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Development & Cloud Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -155,7 +155,7 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 | **Introduction to Subagents** | Anthropic | Verified |
 | **AI Fluency for Nonprofits** | Anthropic / GivingTuesday | Verified |
 | **AI Fluency: Framework & Foundations** | Anthropic / UCC / HEA | Verified |
-| **AI Fluency for Students** | Anthropic / UCC / HEA | Verified |
+| **AI Fluency: Framework & Foundations for Students** | Anthropic / UCC / HEA | Verified |
 | **Teaching the AI Fluency Framework** | Anthropic / UCC / HEA | Verified |
 | **AI Fluency for Educators** | Anthropic / UCC / HEA | Verified |
 
@@ -236,12 +236,12 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ukvirk&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ukvirk&theme=dark&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ukvirk&theme=dark&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
 <p align="center">
@@ -267,7 +267,7 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 ## Current Focus
 
 * 🛠️ **Building:** RAG pipelines, autonomous AI agents with MCP, and custom business software solutions.
-* 💻 **Web Engineering:** Designing modern full-stack web interfaces using React, TailwindCSS, and Python backends.
+* 💻 **Web Engineering:** Designing modern full stack web interfaces using React, TailwindCSS, and Python backends.
 * 📖 **Exploring:** Subagent orchestration, LLM tool-calling optimization, and real-world software automation.
 
 ---
