@@ -5,9 +5,19 @@
 
 ---
 
+## 🐍 Contribution Activity Matrix
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ukvirk/ukvirk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ukvirk/ukvirk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/ukvirk/ukvirk/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🌍 Executive Brief
 
-I design high scale orchestration systems, human in the loop AI architectures, and resilient distributed platforms. Through technology, I bridges infrastructure gaps for vulnerable populations while advancing the frontiers of autonomous agentic systems.
+I design high scale orchestration systems, human in the loop AI architectures, and resilient distributed platforms. Through technology, I bridge infrastructure gaps for vulnerable populations while advancing the frontiers of autonomous agentic systems.
 
 * 🛠️ **Current Focus:** GraphRAG Memory Servers, High-Scale Microservice Orchestration, and Custom MCP Tooling.
 * 🚀 **Social Impact:** Founder of **Hunarmand**, driving economic inclusion and labor matching for over 1,500 families.
@@ -28,7 +38,7 @@ I design high scale orchestration systems, human in the loop AI architectures, a
 ### Languages & Core Engineering
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### AI, Machine Learning & Agentic Systems
@@ -150,16 +160,15 @@ I design high scale orchestration systems, human in the loop AI architectures, a
 
 ---
 
-## 📊 Analytics & Metrics
+## 📊 Analytics & Verified Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ukvirk&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ukvirk&theme=dark&hide_border=false&count_private=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ukvirk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 ---
