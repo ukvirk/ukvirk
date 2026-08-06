@@ -108,21 +108,17 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 | **Tech Stack** | Custom Python Software, Automated Ledger Systems, Reporting Dashboards |
 | **Real Impact** | Digitized core operations and inventory flow, contributing to 1.5x revenue growth |
 
-</details>
-
 <details>
-<summary><b>🇰🇿 Kazakhstan Scholarship Portal & Applicant Network</b></summary>
+<summary><b>🇰🇿 Kazakhstan Government Scholarship Platform</b></summary>
 
 | Metric | Details |
 | :--- | :--- |
-| **Problem Solved** | Fragmented admission information and workflow tracking for international scholarship candidates |
-| **Tech Stack** | Full Stack Web Development, React, TailwindCSS, Vercel Deployment |
-| **Real Impact** | Live centralized platform actively supporting and organizing a community of 600+ international applicants |
+| **Problem Solved** | Streamlining application tracking, university navigation, and digital government scholarship workflows |
+| **Tech Stack** | React 19, TypeScript, Vite, Tailwind CSS, Framer Motion, TanStack Query, Zod, Firebase |
+| **Real Impact** | Production-grade digital service with student registration, multi-step application tracking, and administrative controls, Live centralized platform actively supporting and organizing a community of 600+ international applicants | 
 | **Live Portal** | [kzk-scholarship.vercel.app](https://kzk-scholarship.vercel.app/) |
+<summary><b>🇰🇿 Kazakhstan Scholarship Portal & Applicant Network</b></summary>
 
-</details>
-
-</details>
 
 <details>
 <summary><b>🌱 Baaghbaan (Environmental Tracking Platform)</b></summary>
