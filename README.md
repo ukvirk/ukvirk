@@ -96,8 +96,6 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 | **Problem Solved** | Inefficient matching between local daily wage earners and employers |
 | **Tech Stack** | Python, Full Stack Web Architecture, Database Systems |
 | **Real Impact** | Practical community platform connecting over 1,500 skilled workers with job opportunities |
-| **Repository** | [Hunarmand Platform](https://github.com/ukvirk) |
-
 </details>
 
 <details>
@@ -236,18 +234,17 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ukvirk&theme=dark&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ukvirk&theme=dark&hide_border=false&count_private=true" alt="GitHub Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukvirk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ukvirk&theme=darkhub&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ukvirk&theme=darkhub&column=6" alt="GitHub Trophies" width="100%" />
 </p>
-
 ---
 
 ## Contribution Activity
