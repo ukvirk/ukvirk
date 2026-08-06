@@ -25,7 +25,7 @@
 
 ## About Me
 
-I am a **Full Stack Developer and AI Software Engineer** focused on building clean web applications, custom software solutions, and production AI workflows. I specialize in turning complex, real-world business problems into functional software that works reliably.
+I am a **Full Stack Developer and Junior AI Software Engineer** focused on building clean web applications, custom software solutions, and production AI workflows. I specialize in turning complex, real-world business problems into functional software that works reliably. I am still learning about AI and especially Implementation of AI in Business and real world problems.
 
 As the founder of **Hunarmand**, I built a digital labor matching platform connecting local skilled workers to daily employment opportunities. My everyday engineering work centers on web design, modern full stack web development, custom automation workflows, Retrieval-Augmented Generation (RAG), and autonomous AI agent architectures.
 
@@ -96,7 +96,6 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 | **Problem Solved** | Inefficient matching between local daily wage earners and employers |
 | **Tech Stack** | Python, Full Stack Web Architecture, Database Systems |
 | **Real Impact** | Practical community platform connecting over 1,500 skilled workers with job opportunities |
-| **Repository** | [Hunarmand Platform](https://github.com/ukvirk) |
 
 </details>
 
@@ -112,14 +111,16 @@ As the founder of **Hunarmand**, I built a digital labor matching platform conne
 </details>
 
 <details>
-<summary><b>📄 Atomic Invoice Generator & Live Applicant Portal</b></summary>
+<summary><b>🇰🇿 Kazakhstan Scholarship Portal & Applicant Network</b></summary>
 
 | Metric | Details |
 | :--- | :--- |
-| **Problem Solved** | Streamlining application tracking and dynamic document compilation for non-profit initiatives |
-| **Tech Stack** | Modern Web Frontend, Document Synthesis Engine, Cloud Hosting |
-| **Real Impact** | Live software system supporting and organizing 600+ user applications |
-| **Repository** | [ukvirk/Atomic-Invoice-Generator](https://github.com/ukvirk/Atomic-Invoice-Generator) |
+| **Problem Solved** | Fragmented admission information and workflow tracking for international scholarship candidates |
+| **Tech Stack** | Full Stack Web Development, React, TailwindCSS, Vercel Deployment |
+| **Real Impact** | Live centralized platform actively supporting and organizing a community of 600+ international applicants |
+| **Live Portal** | [kzk-scholarship.vercel.app](https://kzk-scholarship.vercel.app/) |
+
+</details>
 
 </details>
 
